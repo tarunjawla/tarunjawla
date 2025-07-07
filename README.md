@@ -2,7 +2,8 @@
 
 
 
-![My SVG Image](https://github.com/tarun2001jawla/tarunjawla/blob/main/readme.png?raw=true)
+
+![My SVG Image](https://github.com/tarun2001jawla/tarun2001jawla/blob/main/readme.png?raw=true)
 
 
 ---
