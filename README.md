@@ -109,13 +109,14 @@
 
 ---
 
-<h2 align="center">🌐 My Website</h2>
+<h2 align="center">🌐 My Portfolio</h2>
 
 <p align="center">
-  <a href="https://www.tarunjawla.dev">
-    <img src="https://img.shields.io/badge/-Check%20out%20my%20website-58a6ff?style=for-the-badge&logo=Firefox-Browser&logoColor=white" alt="Tarun's Website" />
+  <a href="https://www.tarunjawla.com/">
+    <img src="https://img.shields.io/badge/-Visit%20My%20Portfolio-%23ff6f61?style=for-the-badge&logo=Google-Chrome&logoColor=white" alt="Tarun's Portfolio" />
   </a>
 </p>
+
 
 ---
 
