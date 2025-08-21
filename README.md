@@ -18,8 +18,8 @@
 </p>
 
 <p align="center">
-  <a href="https://www.tarunjawla.dev"><img src="https://img.shields.io/badge/-My%20Website-58a6ff?style=for-the-badge&logo=Firefox-Browser&logoColor=white" alt="Website"></a>
-  <a href="https://www.linkedin.com/in/tarunjawlajaipur/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://www.tarunjawla.com"><img src="https://img.shields.io/badge/-My%20Website-58a6ff?style=for-the-badge&logo=Firefox-Browser&logoColor=white" alt="Website"></a>
+  <a href="https://www.linkedin.com/in/tarunjawla/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="mailto:tarunjawla2@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
   <a href="https://www.instagram.com/tarun_jawla/"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
   <a href="https://twitter.com/tarun_jawla"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"></a>
