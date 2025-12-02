@@ -3,7 +3,7 @@
 
 
 
-![My SVG Image](https://github.com/tarun2001jawla/tarun2001jawla/blob/main/readme.png?raw=true)
+![My SVG Image](https://github.com/tarun2001jawla/tarun2001jawla/blob/main/Gemini_Generated_Image_pmm4s9pmm4s9pmm4.png?raw=true)
 
 
 ---
