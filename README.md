@@ -5,7 +5,6 @@
 
 ![My SVG Image](https://github.com/tarun2001jawla/tarun2001jawla/blob/main/Gemini_Generated_Image_pmm4s9pmm4s9pmm4.png?raw=true)
 
-![trophy](https://github-profile-trophy.vercel.app/?tarunjawla=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
 ---
 >
 
